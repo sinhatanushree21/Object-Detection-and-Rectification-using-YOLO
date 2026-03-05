@@ -1,13 +1,13 @@
 # Object-Detection-and-Rectification-using-YOLO
 This project demonstrates the use of the YOLO (You Only Look Once) algorithm for real-time object detection and subsequent rectification of detected objects in images.
 
-🎯 Objectives
+# Objectives
 - Implement YOLO for detecting multiple objects in an image.
 - Extract bounding boxes and class labels for each detected object.
 - Apply rectification techniques (cropping, perspective correction, resizing) to standardize detected objects.
 - Provide a reproducible workflow for integrating YOLO into downstream tasks such as classification, segmentation, or resource allocation
   
-⚙️ Methodology
+# Methodology
 - Model Setup
 - Load pretrained YOLO weights (YOLOv8).
 - Configure detection thresholds (confidence, IoU).
